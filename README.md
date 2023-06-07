@@ -1,7 +1,11 @@
-# UFO-Sighting
+# UFO Sighting
  
 
 ![AI Student](https://storage.googleapis.com/kaggle-datasets-images/388/799/2dfccff0831a79f8c02f5fc5f62d5466/dataset-cover.jpeg)
+
+* Kindly review my Kaggle notebook for accessing the interactive plots.
+
+https://www.kaggle.com/code/walidkw/ufo-sightings-professional-data-analysis-more
 
 # Requirements:
 
